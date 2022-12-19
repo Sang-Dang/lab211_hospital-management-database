@@ -1,0 +1,3 @@
+ALLOW_CLS = false
+RT_SAVE = true
+SLOW_MODE = true

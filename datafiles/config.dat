@@ -1,0 +1,6 @@
+DOCTOR List = .\\datafiles\\doctor.dat
+PATIENT List = .\\datafiles\\patient.dat
+EXAMINATION List = .\\datafiles\\exam.dat
+DEPARTMENT List = .\\datafiles\\department.dat
+ACCOUNT List = .\\datafiles\\accounts.dat
+SETTINGS List = .\\datafiles\\settings.dat
